@@ -1,0 +1,6 @@
+<map id="Logger.h" name="Logger.h">
+<area shape="rect" id="node1" title="Объявление класса Logger для ведения логов." alt="" coords="64,5,141,32"/>
+<area shape="rect" id="node2" href="$Includer_8h_source.html" title=" " alt="" coords="5,155,91,181"/>
+<area shape="rect" id="node3" href="$Interface_8h.html" title="Объявление класса Interface для обработки взаимодействий с пользователем." alt="" coords="57,80,149,107"/>
+<area shape="rect" id="node4" href="$main_8cpp.html" title="Главная точка входа для приложения." alt="" coords="129,155,212,181"/>
+</map>

@@ -1,0 +1,484 @@
+2024-10-30 23:37:04 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-30 23:37:04 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-30 23:37:04 Port set default value
+2024-10-30 23:40:41 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-30 23:40:41 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-30 23:40:41 Port set default value
+2024-10-30 23:49:20 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-30 23:49:20 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-30 23:49:20 Port set default value
+2024-10-30 23:49:44 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-30 23:49:44 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-30 23:49:44 Port set default value
+2024-10-30 23:54:12 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-30 23:54:12 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-30 23:54:12 Port set default value
+2024-10-30 23:54:12 Connect to database success!
+2024-10-30 23:54:12 Server started
+2024-10-30 23:54:12 Listen socket created
+2024-10-30 23:54:12 Bind success
+2024-10-30 23:54:29 Client socket created
+2024-10-30 23:54:29 ID from client received
+2024-10-30 23:54:29 [Uncritical] Unknown ID
+2024-10-30 23:58:09 Client socket created
+2024-10-30 23:58:09 ID from client received
+2024-10-30 23:58:09 HASH from client received
+2024-10-30 23:58:09 [Uncritical] Auth error
+2024-10-31 00:00:52 Client socket created
+2024-10-31 00:00:52 ID from client received
+2024-10-31 00:00:52 [Uncritical] Unknown ID
+2024-10-31 00:01:32 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 00:01:32 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 00:01:32 Port set default value
+2024-10-31 00:01:32 Connect to database success!
+2024-10-31 00:01:32 Server started
+2024-10-31 00:01:32 Listen socket created
+2024-10-31 00:01:32 Socket bind err
+2024-10-31 00:04:28 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 00:04:28 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 00:04:28 Port set default value
+2024-10-31 00:04:28 Connect to database success!
+2024-10-31 00:04:28 Server started
+2024-10-31 00:04:28 Listen socket created
+2024-10-31 00:04:28 Bind success
+2024-10-31 00:04:39 Client socket created
+2024-10-31 00:04:39 ID from client received
+2024-10-31 00:04:39 [Uncritical] Unknown ID
+2024-10-31 00:12:23 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 00:12:23 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 00:12:23 Port set default value
+2024-10-31 00:12:23 Connect to database success!
+2024-10-31 00:12:23 Server started
+2024-10-31 00:12:23 Listen socket created
+2024-10-31 00:12:23 Bind success
+2024-10-31 00:12:31 Client socket created
+2024-10-31 00:12:31 ID from client received
+2024-10-31 00:12:31 [Uncritical] Unknown ID
+2024-10-31 00:15:19 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 00:15:19 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 00:15:19 Port set default value
+2024-10-31 00:15:19 Connect to database success!
+2024-10-31 00:15:19 Server started
+2024-10-31 00:15:19 Listen socket created
+2024-10-31 00:15:19 Bind success
+2024-10-31 00:15:28 Client socket created
+2024-10-31 00:15:28 ID from client received
+2024-10-31 00:15:28 [Uncritical] Unknown ID
+2024-10-31 00:15:33 Client socket created
+2024-10-31 00:15:33 ID from client received
+2024-10-31 00:15:33 HASH from client received
+2024-10-31 00:15:33 [Uncritical] Auth error
+2024-10-31 00:15:48 Client socket created
+2024-10-31 00:15:48 ID from client received
+2024-10-31 00:15:48 HASH from client received
+2024-10-31 00:15:48 [Uncritical] Auth error
+2024-10-31 00:15:51 Client socket created
+2024-10-31 00:15:51 ID from client received
+2024-10-31 00:15:51 [Uncritical] Unknown ID
+2024-10-31 00:27:51 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 00:27:51 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 00:27:51 Port set default value
+2024-10-31 00:27:51 Connect to database success!
+2024-10-31 00:27:51 Server started
+2024-10-31 00:27:51 Listen socket created
+2024-10-31 00:27:51 Bind success
+2024-10-31 00:28:00 Client socket created
+2024-10-31 00:28:00 ID from client received
+2024-10-31 00:28:00 [Uncritical] HASH received error
+2024-10-31 00:28:11 Client socket created
+2024-10-31 00:28:11 ID from client received
+2024-10-31 00:28:11 [Uncritical] Unknown ID
+2024-10-31 00:29:13 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 00:29:13 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 00:29:13 Port set default value
+2024-10-31 00:29:13 Connect to database success!
+2024-10-31 00:29:13 Server started
+2024-10-31 00:29:13 Listen socket created
+2024-10-31 00:29:13 Bind success
+2024-10-31 00:29:41 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 00:29:41 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 00:29:41 Port set default value
+2024-10-31 00:29:41 Connect to database success!
+2024-10-31 00:29:41 Server started
+2024-10-31 00:29:41 Listen socket created
+2024-10-31 00:29:41 Bind success
+2024-10-31 00:29:48 Client socket created
+2024-10-31 00:29:48 ID from client received
+2024-10-31 00:29:48 [Uncritical] HASH received error
+2024-10-31 00:29:53 Client socket created
+2024-10-31 00:29:53 ID from client received
+2024-10-31 00:29:53 [Uncritical] Unknown ID
+2024-10-31 00:42:10 Client socket created
+2024-10-31 00:42:10 ID from client received
+2024-10-31 00:42:10 [Uncritical] HASH received error
+2024-10-31 00:54:21 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 00:54:21 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 00:54:21 Port set default value
+2024-10-31 00:54:21 Connect to database success!
+2024-10-31 00:54:21 Server started
+2024-10-31 00:54:21 Listen socket created
+2024-10-31 00:54:21 Bind success
+2024-10-31 00:54:30 Client socket created
+2024-10-31 00:54:30 ID from client received
+2024-10-31 00:54:30 [Uncritical] HASH received error
+2024-10-31 00:59:24 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 00:59:24 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 00:59:24 Port set default value
+2024-10-31 00:59:24 Connect to database success!
+2024-10-31 00:59:24 Server started
+2024-10-31 00:59:24 Listen socket created
+2024-10-31 00:59:24 Bind success
+2024-10-31 00:59:30 Client socket created
+2024-10-31 00:59:30 ID from client received
+2024-10-31 00:59:30 HASH from client received
+2024-10-31 01:03:53 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 01:03:53 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 01:03:53 Port set default value
+2024-10-31 01:03:53 Connect to database success!
+2024-10-31 01:03:53 Server started
+2024-10-31 01:03:53 Listen socket created
+2024-10-31 01:03:53 Bind success
+2024-10-31 01:03:59 Client socket created
+2024-10-31 01:03:59 ID from client received
+2024-10-31 01:03:59 HASH from client received
+2024-10-31 01:08:29 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 01:08:29 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 01:08:29 Port set default value
+2024-10-31 01:08:29 Connect to database success!
+2024-10-31 01:08:29 Server started
+2024-10-31 01:08:29 Listen socket created
+2024-10-31 01:08:29 Bind success
+2024-10-31 01:08:35 Client socket created
+2024-10-31 01:08:35 ID from client received
+2024-10-31 01:08:35 HASH from client received
+2024-10-31 01:10:10 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 01:10:10 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 01:10:10 Port set default value
+2024-10-31 01:10:10 Connect to database success!
+2024-10-31 01:10:10 Server started
+2024-10-31 01:10:10 Listen socket created
+2024-10-31 01:10:10 Bind success
+2024-10-31 01:10:23 Client socket created
+2024-10-31 01:10:23 ID from client received
+2024-10-31 01:10:23 Salt generated: 2B7775873B809A366833225DC6CCA85C
+2024-10-31 01:10:23 SALT sent to client
+2024-10-31 01:10:23 [Uncritical] HASH received error
+2024-10-31 01:12:33 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 01:12:33 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 01:12:33 Port set default value
+2024-10-31 01:12:33 Connect to database success!
+2024-10-31 01:12:33 Server started
+2024-10-31 01:12:33 Listen socket created
+2024-10-31 01:12:33 Bind success
+2024-10-31 01:12:42 Client socket created
+2024-10-31 01:12:42 Received number of vectors: 4
+2024-10-31 01:12:42 Received length of vector 1: 4
+2024-10-31 01:12:42 Result of calculation for vector 1 sent
+2024-10-31 01:12:42 Received length of vector 2: 4
+2024-10-31 01:12:42 Result of calculation for vector 2 sent
+2024-10-31 01:12:42 Received length of vector 3: 4
+2024-10-31 01:12:42 Result of calculation for vector 3 sent
+2024-10-31 01:12:42 Received length of vector 4: 4
+2024-10-31 01:12:42 Result of calculation for vector 4 sent
+2024-10-31 01:26:15 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 01:26:15 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 01:26:15 Port set default value
+2024-10-31 01:26:15 Connect to database success!
+2024-10-31 01:26:15 Server started
+2024-10-31 01:26:15 Listen socket created
+2024-10-31 01:26:15 Bind success
+2024-10-31 01:26:22 Client socket created
+2024-10-31 01:26:22 Received number of vectors: 4
+2024-10-31 01:26:22 Received length of vector 1: 4
+2024-10-31 01:26:22 Result of calculation for vector 1 sent
+2024-10-31 01:26:22 Received length of vector 2: 4
+2024-10-31 01:26:23 Result of calculation for vector 2 sent
+2024-10-31 01:26:23 Received length of vector 3: 4
+2024-10-31 01:26:23 Result of calculation for vector 3 sent
+2024-10-31 01:26:23 Received length of vector 4: 4
+2024-10-31 01:26:23 Result of calculation for vector 4 sent
+2024-10-31 01:33:40 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 01:33:40 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 01:33:40 Port set default value
+2024-10-31 01:33:40 Connect to database success!
+2024-10-31 01:33:40 Server started
+2024-10-31 01:33:40 Listen socket created
+2024-10-31 01:33:40 Bind success
+2024-10-31 01:33:51 Client socket created
+2024-10-31 01:33:51 Received number of vectors: 4
+2024-10-31 01:33:51 Received length of vector 1: 4
+2024-10-31 01:33:51 Result of calculation for vector 1 sent
+2024-10-31 01:33:51 Received length of vector 2: 4
+2024-10-31 01:33:51 Result of calculation for vector 2 sent
+2024-10-31 01:33:51 Received length of vector 3: 4
+2024-10-31 01:33:51 Result of calculation for vector 3 sent
+2024-10-31 01:33:51 Received length of vector 4: 4
+2024-10-31 01:33:51 Result of calculation for vector 4 sent
+2024-10-31 10:30:31 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 10:30:31 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 10:30:31 Port set default value
+2024-10-31 10:30:31 Connect to database success!
+2024-10-31 10:30:31 Server started
+2024-10-31 10:30:31 Listen socket created
+2024-10-31 10:30:31 Bind success
+2024-10-31 10:30:39 Client socket created
+2024-10-31 10:30:39 Received number of vectors: 4
+2024-10-31 10:30:39 Received length of vector 1: 4
+2024-10-31 10:30:39 Result of calculation for vector 1 sent
+2024-10-31 10:30:39 Received length of vector 2: 4
+2024-10-31 10:30:39 Result of calculation for vector 2 sent
+2024-10-31 10:30:39 Received length of vector 3: 4
+2024-10-31 10:30:39 Result of calculation for vector 3 sent
+2024-10-31 10:30:39 Received length of vector 4: 4
+2024-10-31 10:30:39 Result of calculation for vector 4 sent
+2024-10-31 10:49:17 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 10:49:17 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 10:49:17 Port set default value
+2024-10-31 10:49:17 Connect to database success!
+2024-10-31 10:49:17 Server started
+2024-10-31 10:49:17 Listen socket created
+2024-10-31 10:49:17 Bind success
+2024-10-31 10:49:29 Client socket created
+2024-10-31 10:49:29 Received number of vectors: 4
+2024-10-31 10:49:29 Received length of vector 1: 4
+2024-10-31 10:49:29 Result of calculation for vector 1 sent
+2024-10-31 10:49:29 Received length of vector 2: 4
+2024-10-31 10:49:29 Result of calculation for vector 2 sent
+2024-10-31 10:49:29 Received length of vector 3: 4
+2024-10-31 10:49:29 Result of calculation for vector 3 sent
+2024-10-31 10:49:29 Received length of vector 4: 4
+2024-10-31 10:49:29 Result of calculation for vector 4 sent
+2024-10-31 10:53:53 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 10:53:53 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 10:53:53 Port set default value
+2024-10-31 10:53:53 Connect to database success!
+2024-10-31 10:53:53 Server started
+2024-10-31 10:53:53 Listen socket created
+2024-10-31 10:53:53 Bind success
+2024-10-31 10:54:04 Client socket created
+2024-10-31 10:54:04 Received number of vectors: 4
+2024-10-31 10:54:04 Received length of vector 1: 4
+2024-10-31 10:54:04 Result of calculation for vector 1 sent
+2024-10-31 10:54:04 Received length of vector 2: 4
+2024-10-31 10:54:04 Result of calculation for vector 2 sent
+2024-10-31 10:54:04 Received length of vector 3: 4
+2024-10-31 10:54:04 Result of calculation for vector 3 sent
+2024-10-31 10:54:04 Received length of vector 4: 4
+2024-10-31 10:54:04 Result of calculation for vector 4 sent
+2024-10-31 10:57:08 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 10:57:08 Path to basefile set value: /home/stud/kyrsach/test/base.txt
+2024-10-31 10:57:08 Port set default value
+2024-10-31 10:57:24 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 10:57:24 Path to basefile set value: /home/stud/kyrsach/test/auth.txt
+2024-10-31 10:57:24 Port set default value
+2024-10-31 10:57:24 Connect to database success!
+2024-10-31 10:57:24 Server started
+2024-10-31 10:57:24 Listen socket created
+2024-10-31 10:57:24 Bind success
+2024-10-31 10:57:37 Client socket created
+2024-10-31 10:57:37 Received number of vectors: 4
+2024-10-31 10:57:37 Received length of vector 1: 4
+2024-10-31 10:57:37 Result of calculation for vector 1 sent
+2024-10-31 10:57:37 Received length of vector 2: 4
+2024-10-31 10:57:37 Result of calculation for vector 2 sent
+2024-10-31 10:57:37 Received length of vector 3: 4
+2024-10-31 10:57:37 Result of calculation for vector 3 sent
+2024-10-31 10:57:37 Received length of vector 4: 4
+2024-10-31 10:57:37 Result of calculation for vector 4 sent
+2024-10-31 11:01:01 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 11:01:01 Path to basefile set value: /home/stud/kyrsach/test/auth.txt
+2024-10-31 11:01:01 Port set default value
+2024-10-31 11:01:01 Connect to database success!
+2024-10-31 11:01:01 Server started
+2024-10-31 11:01:01 Listen socket created
+2024-10-31 11:01:01 Bind success
+2024-10-31 11:01:15 Client socket created
+2024-10-31 11:01:15 Received number of vectors: 4
+2024-10-31 11:01:15 Received length of vector 1: 4
+2024-10-31 11:01:15 Result of calculation for vector 1 sent
+2024-10-31 11:01:15 Received length of vector 2: 4
+2024-10-31 11:01:15 Result of calculation for vector 2 sent
+2024-10-31 11:01:15 Received length of vector 3: 4
+2024-10-31 11:01:15 Result of calculation for vector 3 sent
+2024-10-31 11:01:15 Received length of vector 4: 4
+2024-10-31 11:01:15 Result of calculation for vector 4 sent
+2024-10-31 11:03:36 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 11:03:36 Path to basefile set value: /home/stud/kyrsach/test/auth.txt
+2024-10-31 11:03:36 Port set default value
+2024-10-31 11:03:36 Connect to database success!
+2024-10-31 11:03:36 Server started
+2024-10-31 11:03:36 Listen socket created
+2024-10-31 11:03:36 Bind success
+2024-10-31 11:03:49 Client socket created
+2024-10-31 11:03:49 Received number of vectors: 4
+2024-10-31 11:03:49 Received length of vector 1: 4
+2024-10-31 11:03:49 Result of calculation for vector 1 sent
+2024-10-31 11:03:49 Received length of vector 2: 4
+2024-10-31 11:03:49 Result of calculation for vector 2 sent
+2024-10-31 11:03:49 Received length of vector 3: 4
+2024-10-31 11:03:49 Result of calculation for vector 3 sent
+2024-10-31 11:03:49 Received length of vector 4: 4
+2024-10-31 11:03:49 Result of calculation for vector 4 sent
+2024-10-31 11:08:46 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 11:08:46 Path to basefile set value: /home/stud/kyrsach/test/auth.txt
+2024-10-31 11:08:46 Port set default value
+2024-10-31 11:08:46 Connect to database success!
+2024-10-31 11:08:46 Server started
+2024-10-31 11:08:46 Listen socket created
+2024-10-31 11:08:46 Bind success
+2024-10-31 11:08:59 Client socket created
+2024-10-31 11:08:59 Received number of vectors: 4
+2024-10-31 11:08:59 Received length of vector 1: 4
+2024-10-31 11:08:59 Result of calculation for vector 1 sent
+2024-10-31 11:08:59 Received length of vector 2: 4
+2024-10-31 11:08:59 Result of calculation for vector 2 sent
+2024-10-31 11:08:59 Received length of vector 3: 4
+2024-10-31 11:08:59 Result of calculation for vector 3 sent
+2024-10-31 11:08:59 Received length of vector 4: 4
+2024-10-31 11:09:00 Result of calculation for vector 4 sent
+2024-10-31 12:25:32 Path to logfile set value: /home/stud/kyrsach/test/log.txt
+2024-10-31 12:25:32 Path to basefile set value: /home/stud/kyrsach/test/auth.txt
+2024-10-31 12:25:32 Port set default value
+2024-10-31 12:25:32 Connect to database success!
+2024-10-31 12:25:32 Server started
+2024-10-31 12:25:32 Listen socket created
+2024-10-31 12:25:32 Bind success
+2024-10-31 12:25:48 Client socket created
+2024-10-31 12:25:48 Received number of vectors: 4
+2024-10-31 12:25:48 Received length of vector 1: 4
+2024-10-31 12:25:48 Result of calculation for vector 1 sent
+2024-10-31 12:25:48 Received length of vector 2: 4
+2024-10-31 12:25:48 Result of calculation for vector 2 sent
+2024-10-31 12:25:48 Received length of vector 3: 4
+2024-10-31 12:25:48 Result of calculation for vector 3 sent
+2024-10-31 12:25:48 Received length of vector 4: 4
+2024-10-31 12:25:48 Result of calculation for vector 4 sent
+2024-11-20 20:48:39 Path to logfile set default value
+2024-11-20 20:48:39 Path to basefile set default value
+2024-11-20 20:48:39 Port set default value
+2024-11-20 20:48:39 Connect to database success!
+2024-11-20 20:48:39 Server started
+2024-11-20 20:48:39 Listen socket created
+2024-11-20 20:48:39 Bind success
+2024-11-20 20:49:00 Client socket created
+2024-11-20 20:49:00 Received number of vectors: 4
+2024-11-20 20:49:00 Received length of vector 1: 4
+2024-11-20 20:49:00 Result of calculation for vector 1 sent
+2024-11-20 20:49:00 Received length of vector 2: 4
+2024-11-20 20:49:00 Result of calculation for vector 2 sent
+2024-11-20 20:49:00 Received length of vector 3: 4
+2024-11-20 20:49:00 Result of calculation for vector 3 sent
+2024-11-20 20:49:00 Received length of vector 4: 4
+2024-11-20 20:49:00 Result of calculation for vector 4 sent
+2024-11-20 20:49:18 Client socket created
+2024-11-20 20:49:18 Received number of vectors: 4
+2024-11-20 20:49:19 Received length of vector 1: 4
+2024-11-20 20:57:30 Path to logfile set default value
+2024-11-20 20:57:30 Path to basefile set default value
+2024-11-20 20:57:30 Port set default value
+2024-11-20 20:57:30 Connect to database success!
+2024-11-20 20:57:30 Server started
+2024-11-20 20:57:30 Listen socket created
+2024-11-20 20:57:30 Bind success
+2024-11-20 20:57:38 Client socket created
+2024-11-20 20:57:38 Received number of vectors: 4
+2024-11-20 20:57:38 Received length of vector 1: 4
+2024-11-20 20:57:38 Result of calculation for vector 1 sent
+2024-11-20 20:57:38 Received length of vector 2: 4
+2024-11-20 20:57:38 Result of calculation for vector 2 sent
+2024-11-20 20:57:38 Received length of vector 3: 4
+2024-11-20 20:57:38 Result of calculation for vector 3 sent
+2024-11-20 20:57:38 Received length of vector 4: 4
+2024-11-20 20:57:38 Result of calculation for vector 4 sent
+2024-11-20 21:08:07 Path to logfile set default value
+2024-11-20 21:08:07 Path to basefile set default value
+2024-11-20 21:08:07 Port set default value
+2024-11-20 21:08:07 Connect to database success!
+2024-11-20 21:08:07 Server started
+2024-11-20 21:08:07 Listen socket created
+2024-11-20 21:08:07 Bind success
+2024-11-20 21:39:16 Path to logfile set default value
+2024-11-20 21:39:16 Path to basefile set value: /home/stud/Server/test/base.txt
+2024-11-20 21:39:16 Port set default value
+2024-11-20 22:22:42 Path to logfile set default value
+2024-11-20 22:22:42 Path to basefile set default value
+2024-11-20 22:22:42 Port set default value
+2024-11-20 22:22:42 Connect to database success!
+2024-11-20 22:22:42 Server started
+2024-11-20 22:22:42 Listen socket created
+2024-11-20 22:22:42 Bind success
+2024-11-20 22:27:20 Path to logfile set default value
+2024-11-20 22:27:20 Path to basefile set default value
+2024-11-20 22:27:20 Port set default value
+2024-11-20 22:27:20 Connect to database success!
+2024-11-20 22:27:20 Server started
+2024-11-20 22:27:20 Listen socket created
+2024-11-20 22:27:20 Bind success
+2024-11-20 22:46:34 Path to logfile set default value
+2024-11-20 22:46:34 Path to basefile set default value
+2024-11-20 22:46:34 Port set default value
+2024-11-20 22:46:34 Connect to database success!
+2024-11-20 22:46:34 Server started
+2024-11-20 22:46:34 Listen socket created
+2024-11-20 22:46:34 Bind success
+2024-11-20 22:46:52 Client socket created
+2024-11-20 22:46:52 Received number of vectors: 4
+2024-11-20 22:46:52 Received length of vector 1: 4
+2024-11-20 22:46:52 Result of calculation for vector 1 sent
+2024-11-20 22:46:52 Received length of vector 2: 4
+2024-11-20 22:46:52 Result of calculation for vector 2 sent
+2024-11-20 22:46:52 Received length of vector 3: 4
+2024-11-20 22:46:52 Result of calculation for vector 3 sent
+2024-11-20 22:46:52 Received length of vector 4: 4
+2024-11-20 22:46:52 Result of calculation for vector 4 sent
+2024-11-20 23:11:46 Path to logfile set default value
+2024-11-20 23:11:46 Path to basefile set default value
+2024-11-20 23:11:46 Port set default value
+2024-11-20 23:11:46 Connect to database success!
+2024-11-20 23:11:46 Server started
+2024-11-20 23:11:46 Listen socket created
+2024-11-20 23:11:46 Bind success
+2024-11-20 23:11:59 Client socket created
+2024-11-20 23:11:59 Received number of vectors: 4
+2024-11-20 23:11:59 Received length of vector 1: 4
+2024-11-20 23:11:59 Result of calculation for vector 1 sent
+2024-11-20 23:11:59 Received length of vector 2: 4
+2024-11-20 23:11:59 Result of calculation for vector 2 sent
+2024-11-20 23:11:59 Received length of vector 3: 4
+2024-11-20 23:11:59 Result of calculation for vector 3 sent
+2024-11-20 23:11:59 Received length of vector 4: 4
+2024-11-20 23:11:59 Result of calculation for vector 4 sent
+2024-11-20 23:12:50 Path to logfile set default value
+2024-11-20 23:12:50 Path to basefile set default value
+2024-11-20 23:12:50 Port set default value
+2024-11-20 23:12:50 Connect to database success!
+2024-11-20 23:12:50 Server started
+2024-11-20 23:12:50 Listen socket created
+2024-11-20 23:12:50 Bind success
+2024-11-20 23:12:59 Client socket created
+2024-11-20 23:12:59 Received number of vectors: 4
+2024-11-20 23:12:59 Received length of vector 1: 4
+2024-11-20 23:12:59 Result of calculation for vector 1 sent
+2024-11-20 23:12:59 Received length of vector 2: 4
+2024-11-20 23:12:59 Result of calculation for vector 2 sent
+2024-11-20 23:12:59 Received length of vector 3: 4
+2024-11-20 23:12:59 Result of calculation for vector 3 sent
+2024-11-20 23:12:59 Received length of vector 4: 4
+2024-11-20 23:12:59 Result of calculation for vector 4 sent
+2024-11-20 23:13:35 Path to logfile set default value
+2024-11-20 23:13:35 Path to basefile set default value
+2024-11-20 23:13:35 Port set default value
+2024-11-20 23:13:35 Connect to database success!
+2024-11-20 23:13:35 Server started
+2024-11-20 23:13:35 Listen socket created
+2024-11-20 23:13:35 Bind success
+2024-11-20 23:13:41 Client socket created
+2024-11-20 23:13:41 Received number of vectors: 4
+2024-11-20 23:13:41 Received length of vector 1: 4
+2024-11-20 23:13:41 Result of calculation for vector 1 sent
+2024-11-20 23:13:41 Received length of vector 2: 4
+2024-11-20 23:13:41 Result of calculation for vector 2 sent
+2024-11-20 23:13:41 Received length of vector 3: 4
+2024-11-20 23:13:42 Result of calculation for vector 3 sent
+2024-11-20 23:13:42 Received length of vector 4: 4
+2024-11-20 23:13:42 Result of calculation for vector 4 sent

@@ -1,0 +1,63 @@
+\hypertarget{classConnector}{}\doxysection{Класс Connector}
+\label{classConnector}\index{Connector@{Connector}}
+
+
+Управляет подключениями к базе данных.  
+
+
+
+
+{\ttfamily \#include $<$Connector.\+h$>$}
+
+\doxysubsection*{Открытые члены}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{classConnector_a676e9a7e58e1f47d57ef330f7481a0dd}{connect}} (std\+::string base\+\_\+file=\char`\"{}/home/stud/Server/test\+\_\+files/auth.\+txt\char`\"{})
+\begin{DoxyCompactList}\small\item\em Подключается к базе данных. \end{DoxyCompactList}\item 
+std\+::map$<$ std\+::string, std\+::string $>$ \mbox{\hyperlink{classConnector_a2a4bf3df20fee99ef62aff3637e2f905}{get\+\_\+data}} ()
+\begin{DoxyCompactList}\small\item\em Получает данные из базы данных. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Подробное описание}
+Управляет подключениями к базе данных. 
+
+Загружает данные пользователей из файла и хранит их в словаре. 
+
+\doxysubsection{Методы}
+\mbox{\Hypertarget{classConnector_a676e9a7e58e1f47d57ef330f7481a0dd}\label{classConnector_a676e9a7e58e1f47d57ef330f7481a0dd}} 
+\index{Connector@{Connector}!connect@{connect}}
+\index{connect@{connect}!Connector@{Connector}}
+\doxysubsubsection{\texorpdfstring{connect()}{connect()}}
+{\footnotesize\ttfamily int Connector\+::connect (\begin{DoxyParamCaption}\item[{std\+::string}]{base\+\_\+file = {\ttfamily \char`\"{}/home/stud/Server/test\+\_\+files/auth.txt\char`\"{}} }\end{DoxyParamCaption})}
+
+
+
+Подключается к базе данных. 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em base\+\_\+file} & Путь к файлу базы данных. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+int Код состояния. 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classConnector_a2a4bf3df20fee99ef62aff3637e2f905}\label{classConnector_a2a4bf3df20fee99ef62aff3637e2f905}} 
+\index{Connector@{Connector}!get\_data@{get\_data}}
+\index{get\_data@{get\_data}!Connector@{Connector}}
+\doxysubsubsection{\texorpdfstring{get\_data()}{get\_data()}}
+{\footnotesize\ttfamily std\+::map$<$ std\+::string, std\+::string $>$ Connector\+::get\+\_\+data (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})}
+
+
+
+Получает данные из базы данных. 
+
+\begin{DoxyReturn}{Возвращает}
+std\+::map$<$std\+::string, std\+::string$>$ Словарь записей в базе данных. 
+\end{DoxyReturn}
+
+
+Объявления и описания членов классов находятся в файлах\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{Connector_8h}{Connector.\+h}}\item 
+Connector.\+cpp\end{DoxyCompactItemize}

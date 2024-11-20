@@ -1,0 +1,88 @@
+\hypertarget{classCommunicate}{}\doxysection{Класс Communicate}
+\label{classCommunicate}\index{Communicate@{Communicate}}
+
+
+Обрабатывает обмен данными между сервером и клиентом.  
+
+
+
+
+{\ttfamily \#include $<$Communicate.\+h$>$}
+
+\doxysubsection*{Открытые члены}
+\begin{DoxyCompactItemize}
+\item 
+int \mbox{\hyperlink{classCommunicate_acdff709b5f067461b7085a4bf4fa7977}{connection}} (int port, std\+::map$<$ std\+::string, std\+::string $>$ database, \mbox{\hyperlink{classLogger}{Logger}} $\ast$l1)
+\begin{DoxyCompactList}\small\item\em Устанавливает соединение с клиентом. \end{DoxyCompactList}\end{DoxyCompactItemize}
+\doxysubsection*{Открытые статические члены}
+\begin{DoxyCompactItemize}
+\item 
+static std\+::string \mbox{\hyperlink{classCommunicate_a44d50dcc4cc68c32cf51bda0586391ff}{sha256}} (std\+::string input\+\_\+str)
+\begin{DoxyCompactList}\small\item\em Вычисляет SHA256-\/хэш строки. \end{DoxyCompactList}\item 
+static std\+::string \mbox{\hyperlink{classCommunicate_ab392e680d517c757ffa668bfcfd750d6}{generate\+\_\+salt}} ()
+\begin{DoxyCompactList}\small\item\em Генерирует случайный соль. \end{DoxyCompactList}\end{DoxyCompactItemize}
+
+
+\doxysubsection{Подробное описание}
+Обрабатывает обмен данными между сервером и клиентом. 
+
+\doxysubsection{Методы}
+\mbox{\Hypertarget{classCommunicate_acdff709b5f067461b7085a4bf4fa7977}\label{classCommunicate_acdff709b5f067461b7085a4bf4fa7977}} 
+\index{Communicate@{Communicate}!connection@{connection}}
+\index{connection@{connection}!Communicate@{Communicate}}
+\doxysubsubsection{\texorpdfstring{connection()}{connection()}}
+{\footnotesize\ttfamily int Communicate\+::connection (\begin{DoxyParamCaption}\item[{int}]{port,  }\item[{std\+::map$<$ std\+::string, std\+::string $>$}]{database,  }\item[{\mbox{\hyperlink{classLogger}{Logger}} $\ast$}]{l1 }\end{DoxyParamCaption})}
+
+
+
+Устанавливает соединение с клиентом. 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em port} & Порт сервера. \\
+\hline
+{\em database} & База данных с учетными данными пользователей. \\
+\hline
+{\em l1} & Экземпляр \mbox{\hyperlink{classLogger}{Logger}} для ведения журнала. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+int Код состояния. 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classCommunicate_ab392e680d517c757ffa668bfcfd750d6}\label{classCommunicate_ab392e680d517c757ffa668bfcfd750d6}} 
+\index{Communicate@{Communicate}!generate\_salt@{generate\_salt}}
+\index{generate\_salt@{generate\_salt}!Communicate@{Communicate}}
+\doxysubsubsection{\texorpdfstring{generate\_salt()}{generate\_salt()}}
+{\footnotesize\ttfamily std\+::string Communicate\+::generate\+\_\+salt (\begin{DoxyParamCaption}{ }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Генерирует случайный соль. 
+
+\begin{DoxyReturn}{Возвращает}
+std\+::string Сгенерированная соль в шестнадцатеричном формате. 
+\end{DoxyReturn}
+\mbox{\Hypertarget{classCommunicate_a44d50dcc4cc68c32cf51bda0586391ff}\label{classCommunicate_a44d50dcc4cc68c32cf51bda0586391ff}} 
+\index{Communicate@{Communicate}!sha256@{sha256}}
+\index{sha256@{sha256}!Communicate@{Communicate}}
+\doxysubsubsection{\texorpdfstring{sha256()}{sha256()}}
+{\footnotesize\ttfamily std\+::string Communicate\+::sha256 (\begin{DoxyParamCaption}\item[{std\+::string}]{input\+\_\+str }\end{DoxyParamCaption})\hspace{0.3cm}{\ttfamily [static]}}
+
+
+
+Вычисляет SHA256-\/хэш строки. 
+
+
+\begin{DoxyParams}{Аргументы}
+{\em input\+\_\+str} & Входная строка. \\
+\hline
+\end{DoxyParams}
+\begin{DoxyReturn}{Возвращает}
+std\+::string SHA256-\/хэш входной строки. 
+\end{DoxyReturn}
+
+
+Объявления и описания членов классов находятся в файлах\+:\begin{DoxyCompactItemize}
+\item 
+\mbox{\hyperlink{Communicate_8h}{Communicate.\+h}}\item 
+Communicate.\+cpp\end{DoxyCompactItemize}

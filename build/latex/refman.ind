@@ -1,0 +1,76 @@
+\begin{theindex}
+
+  \item {Calculator}, \hyperpage{7}
+    \subitem {Calculator}, \hyperpage{7}
+    \subitem {send\_res}, \hyperpage{8}
+  \item {Calculator.h}, \hyperpage{17}
+  \item {comm\_proc}
+    \subitem {Interface}, \hyperpage{13}
+  \item {Communicate}, \hyperpage{8}
+    \subitem {connection}, \hyperpage{9}
+    \subitem {generate\_salt}, \hyperpage{9}
+    \subitem {sha256}, \hyperpage{9}
+  \item {Communicate.h}, \hyperpage{18}
+  \item {connect}
+    \subitem {Connector}, \hyperpage{10}
+  \item {connection}
+    \subitem {Communicate}, \hyperpage{9}
+  \item {Connector}, \hyperpage{10}
+    \subitem {connect}, \hyperpage{10}
+    \subitem {get\_data}, \hyperpage{11}
+  \item {Connector.h}, \hyperpage{20}
+  \item {crit\_err}, \hyperpage{11}
+    \subitem {crit\_err}, \hyperpage{12}
+
+  \indexspace
+
+  \item {Errors.h}, \hyperpage{21}
+
+  \indexspace
+
+  \item {generate\_salt}
+    \subitem {Communicate}, \hyperpage{9}
+  \item {get\_data}
+    \subitem {Connector}, \hyperpage{11}
+
+  \indexspace
+
+  \item {Interface}, \hyperpage{12}
+    \subitem {comm\_proc}, \hyperpage{13}
+  \item {Interface.h}, \hyperpage{23}
+
+  \indexspace
+
+  \item {Logger}, \hyperpage{13}
+    \subitem {Logger}, \hyperpage{14}
+    \subitem {set\_path}, \hyperpage{14}
+    \subitem {writelog}, \hyperpage{14}
+  \item {Logger.h}, \hyperpage{24}
+
+  \indexspace
+
+  \item {main}
+    \subitem {main.cpp}, \hyperpage{27}
+  \item {main.cpp}, \hyperpage{26}
+    \subitem {main}, \hyperpage{27}
+
+  \indexspace
+
+  \item {no\_crit\_err}, \hyperpage{15}
+    \subitem {no\_crit\_err}, \hyperpage{16}
+
+  \indexspace
+
+  \item {send\_res}
+    \subitem {Calculator}, \hyperpage{8}
+  \item {set\_path}
+    \subitem {Logger}, \hyperpage{14}
+  \item {sha256}
+    \subitem {Communicate}, \hyperpage{9}
+
+  \indexspace
+
+  \item {writelog}
+    \subitem {Logger}, \hyperpage{14}
+
+\end{theindex}

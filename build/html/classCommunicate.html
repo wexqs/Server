@@ -1,0 +1,215 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/xhtml;charset=UTF-8"/>
+<meta http-equiv="X-UA-Compatible" content="IE=11"/>
+<meta name="generator" content="Doxygen 1.9.4"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+<title>Удалов В.В. 23ПТ1: Класс Communicate</title>
+<link href="tabs.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="dynsections.js"></script>
+<link href="search/search.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript" src="search/searchdata.js"></script>
+<script type="text/javascript" src="search/search.js"></script>
+<link href="doxygen.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div id="top"><!-- do not remove this div, it is closed by doxygen! -->
+<div id="titlearea">
+<table cellspacing="0" cellpadding="0">
+ <tbody>
+ <tr id="projectrow">
+  <td id="projectalign">
+   <div id="projectname">Удалов В.В. 23ПТ1<span id="projectnumber">&#160;1.0</span>
+   </div>
+   <div id="projectbrief">Курсовая работа</div>
+  </td>
+ </tr>
+ </tbody>
+</table>
+</div>
+<!-- end header part -->
+<!-- Создано системой Doxygen 1.9.4 -->
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+var searchBox = new SearchBox("searchBox", "search",'Поиск','.html');
+/* @license-end */
+</script>
+<script type="text/javascript" src="menudata.js"></script>
+<script type="text/javascript" src="menu.js"></script>
+<script type="text/javascript">
+/* @license magnet:?xt=urn:btih:d3d9a9a6595521f9666a5e94cc830dab83b65699&amp;dn=expat.txt MIT */
+$(function() {
+  initMenu('',true,false,'search.php','Поиск');
+  $(document).ready(function() { init_search(); });
+});
+/* @license-end */
+</script>
+<div id="main-nav"></div>
+<!-- window showing the filter options -->
+<div id="MSearchSelectWindow"
+     onmouseover="return searchBox.OnSearchSelectShow()"
+     onmouseout="return searchBox.OnSearchSelectHide()"
+     onkeydown="return searchBox.OnSearchSelectKey(event)">
+</div>
+
+<!-- iframe showing the search results (closed by default) -->
+<div id="MSearchResultsWindow">
+<iframe src="javascript:void(0)" frameborder="0" 
+        name="MSearchResults" id="MSearchResults">
+</iframe>
+</div>
+
+</div><!-- top -->
+<div class="header">
+  <div class="summary">
+<a href="#pub-methods">Открытые члены</a> &#124;
+<a href="#pub-static-methods">Открытые статические члены</a> &#124;
+<a href="classCommunicate-members.html">Полный список членов класса</a>  </div>
+  <div class="headertitle"><div class="title">Класс Communicate</div></div>
+</div><!--header-->
+<div class="contents">
+
+<p>Обрабатывает обмен данными между сервером и клиентом.  
+ <a href="classCommunicate.html#details">Подробнее...</a></p>
+
+<p><code>#include &lt;<a class="el" href="Communicate_8h_source.html">Communicate.h</a>&gt;</code></p>
+<table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-methods" name="pub-methods"></a>
+Открытые члены</h2></td></tr>
+<tr class="memitem:acdff709b5f067461b7085a4bf4fa7977"><td class="memItemLeft" align="right" valign="top">int&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCommunicate.html#acdff709b5f067461b7085a4bf4fa7977">connection</a> (int port, std::map&lt; std::string, std::string &gt; database, <a class="el" href="classLogger.html">Logger</a> *l1)</td></tr>
+<tr class="memdesc:acdff709b5f067461b7085a4bf4fa7977"><td class="mdescLeft">&#160;</td><td class="mdescRight">Устанавливает соединение с клиентом.  <a href="classCommunicate.html#acdff709b5f067461b7085a4bf4fa7977">Подробнее...</a><br /></td></tr>
+<tr class="separator:acdff709b5f067461b7085a4bf4fa7977"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a id="pub-static-methods" name="pub-static-methods"></a>
+Открытые статические члены</h2></td></tr>
+<tr class="memitem:a44d50dcc4cc68c32cf51bda0586391ff"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCommunicate.html#a44d50dcc4cc68c32cf51bda0586391ff">sha256</a> (std::string input_str)</td></tr>
+<tr class="memdesc:a44d50dcc4cc68c32cf51bda0586391ff"><td class="mdescLeft">&#160;</td><td class="mdescRight">Вычисляет SHA256-хэш строки.  <a href="classCommunicate.html#a44d50dcc4cc68c32cf51bda0586391ff">Подробнее...</a><br /></td></tr>
+<tr class="separator:a44d50dcc4cc68c32cf51bda0586391ff"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab392e680d517c757ffa668bfcfd750d6"><td class="memItemLeft" align="right" valign="top">static std::string&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classCommunicate.html#ab392e680d517c757ffa668bfcfd750d6">generate_salt</a> ()</td></tr>
+<tr class="memdesc:ab392e680d517c757ffa668bfcfd750d6"><td class="mdescLeft">&#160;</td><td class="mdescRight">Генерирует случайный соль.  <a href="classCommunicate.html#ab392e680d517c757ffa668bfcfd750d6">Подробнее...</a><br /></td></tr>
+<tr class="separator:ab392e680d517c757ffa668bfcfd750d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table>
+<a name="details" id="details"></a><h2 class="groupheader">Подробное описание</h2>
+<div class="textblock"><p >Обрабатывает обмен данными между сервером и клиентом. </p>
+</div><h2 class="groupheader">Методы</h2>
+<a id="acdff709b5f067461b7085a4bf4fa7977" name="acdff709b5f067461b7085a4bf4fa7977"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#acdff709b5f067461b7085a4bf4fa7977">&#9670;&nbsp;</a></span>connection()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">int Communicate::connection </td>
+          <td>(</td>
+          <td class="paramtype">int&#160;</td>
+          <td class="paramname"><em>port</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">std::map&lt; std::string, std::string &gt;&#160;</td>
+          <td class="paramname"><em>database</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype"><a class="el" href="classLogger.html">Logger</a> *&#160;</td>
+          <td class="paramname"><em>l1</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Устанавливает соединение с клиентом. </p>
+<dl class="params"><dt>Аргументы</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">port</td><td>Порт сервера. </td></tr>
+    <tr><td class="paramname">database</td><td>База данных с учетными данными пользователей. </td></tr>
+    <tr><td class="paramname">l1</td><td>Экземпляр <a class="el" href="classLogger.html" title="Класс для обработки записи логов.">Logger</a> для ведения журнала. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Возвращает</dt><dd>int Код состояния. </dd></dl>
+
+</div>
+</div>
+<a id="ab392e680d517c757ffa668bfcfd750d6" name="ab392e680d517c757ffa668bfcfd750d6"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab392e680d517c757ffa668bfcfd750d6">&#9670;&nbsp;</a></span>generate_salt()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string Communicate::generate_salt </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Генерирует случайный соль. </p>
+<dl class="section return"><dt>Возвращает</dt><dd>std::string Сгенерированная соль в шестнадцатеричном формате. </dd></dl>
+
+</div>
+</div>
+<a id="a44d50dcc4cc68c32cf51bda0586391ff" name="a44d50dcc4cc68c32cf51bda0586391ff"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a44d50dcc4cc68c32cf51bda0586391ff">&#9670;&nbsp;</a></span>sha256()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">std::string Communicate::sha256 </td>
+          <td>(</td>
+          <td class="paramtype">std::string&#160;</td>
+          <td class="paramname"><em>input_str</em></td><td>)</td>
+          <td></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">static</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+
+<p>Вычисляет SHA256-хэш строки. </p>
+<dl class="params"><dt>Аргументы</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">input_str</td><td>Входная строка. </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Возвращает</dt><dd>std::string SHA256-хэш входной строки. </dd></dl>
+
+</div>
+</div>
+<hr/>Объявления и описания членов классов находятся в файлах:<ul>
+<li><a class="el" href="Communicate_8h_source.html">Communicate.h</a></li>
+<li>Communicate.cpp</li>
+</ul>
+</div><!-- contents -->
+<!-- start footer part -->
+<hr class="footer"/><address class="footer"><small>
+Создано системой&#160;<a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.4
+</small></address>
+</body>
+</html>
