@@ -482,3 +482,523 @@
 2024-11-20 23:13:42 Result of calculation for vector 3 sent
 2024-11-20 23:13:42 Received length of vector 4: 4
 2024-11-20 23:13:42 Result of calculation for vector 4 sent
+2024-11-20 23:27:48 Path to logfile set default value
+2024-11-20 23:27:48 Path to basefile set default value
+2024-11-20 23:27:48 Port set default value
+2024-11-20 23:27:48 Connect to database success!
+2024-11-20 23:27:48 Server started
+2024-11-20 23:27:48 Listen socket created
+2024-11-20 23:27:48 Bind success
+2024-11-20 23:27:59 Client socket created
+2024-11-20 23:27:59 Received number of vectors: 4
+2024-11-20 23:27:59 Received length of vector 1: 4
+2024-11-20 23:27:59 Result of calculation for vector 1 sent
+2024-11-20 23:27:59 Received length of vector 2: 4
+2024-11-20 23:27:59 Result of calculation for vector 2 sent
+2024-11-20 23:27:59 Received length of vector 3: 4
+2024-11-20 23:27:59 Result of calculation for vector 3 sent
+2024-11-20 23:27:59 Received length of vector 4: 4
+2024-11-20 23:27:59 Result of calculation for vector 4 sent
+2024-11-28 16:56:22 Path to logfile set default value
+2024-11-28 16:56:22 Path to basefile set default value
+2024-11-28 16:56:22 Port set default value
+2024-11-28 16:56:22 Connect to database success!
+2024-11-28 16:56:22 Server started
+2024-11-28 16:56:22 Listen socket created
+2024-11-28 16:56:22 Bind success
+2024-11-28 16:56:38 Client socket created
+2024-11-28 16:56:38 Received number of vectors: 4
+2024-11-28 16:56:38 Received length of vector 1: 4
+2024-11-28 16:56:38 Result of calculation for vector 1 sent
+2024-11-28 16:56:38 Received length of vector 2: 4
+2024-11-28 16:56:38 Result of calculation for vector 2 sent
+2024-11-28 16:56:38 Received length of vector 3: 4
+2024-11-28 16:56:38 Result of calculation for vector 3 sent
+2024-11-28 16:56:38 Received length of vector 4: 4
+2024-11-28 16:56:38 Result of calculation for vector 4 sent
+2024-12-02 19:32:38 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 19:32:38 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 19:32:38 Port set default value
+2024-12-02 19:32:38 Connect to database success!
+2024-12-02 19:32:38 Server started
+2024-12-02 19:32:38 Listen socket created
+2024-12-02 19:32:38 Bind success
+2024-12-02 19:33:29 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 19:33:29 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 19:33:29 Port set default value
+2024-12-02 19:33:29 Connect to database success!
+2024-12-02 19:33:29 Server started
+2024-12-02 19:33:29 Listen socket created
+2024-12-02 19:33:29 Bind success
+2024-12-02 19:33:38 Client socket created
+2024-12-02 19:33:38 Received number of vectors: 4
+2024-12-02 19:33:38 Received length of vector 1: 4
+2024-12-02 19:33:38 Result of calculation for vector 1 sent
+2024-12-02 19:33:38 Received length of vector 2: 4
+2024-12-02 19:33:38 Result of calculation for vector 2 sent
+2024-12-02 19:33:38 Received length of vector 3: 4
+2024-12-02 19:33:38 Result of calculation for vector 3 sent
+2024-12-02 19:33:38 Received length of vector 4: 4
+2024-12-02 19:33:38 Result of calculation for vector 4 sent
+2024-12-02 19:52:32 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 19:52:32 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 19:52:32 Port set default value
+2024-12-02 19:52:32 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 19:52:32 Connect to database success!
+2024-12-02 19:52:32 Server started
+2024-12-02 19:52:32 Listen socket created
+2024-12-02 19:52:32 Bind success
+2024-12-02 19:53:18 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 19:53:18 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 19:53:18 Port set default value
+2024-12-02 19:53:18 Ошибка: файл базы данных не найден: /home/stud/Server/test_files/auth.txt
+2024-12-02 19:54:00 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 19:54:00 Path to basefile set default value
+2024-12-02 19:54:00 Port set default value
+2024-12-02 19:54:00 Ошибка: файл базы данных не найден: /etc/vcalc.conf
+2024-12-02 19:54:14 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 19:54:14 Path to basefile set default value
+2024-12-02 19:54:14 Port set default value
+2024-12-02 19:54:14 Ошибка: файл базы данных не найден: /etc/vcalc.conf
+2024-12-02 19:55:26 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 19:55:26 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 19:55:26 Port set default value
+2024-12-02 19:55:26 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 19:55:26 Connect to database success!
+2024-12-02 19:55:26 Server started
+2024-12-02 19:55:26 Listen socket created
+2024-12-02 19:55:26 Bind success
+2024-12-02 19:57:11 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 19:57:11 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 19:57:11 Port set default value
+2024-12-02 19:57:11 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 19:57:11 Connect to database success!
+2024-12-02 19:57:11 Server started
+2024-12-02 19:57:11 Listen socket created
+2024-12-02 19:57:11 Bind success
+2024-12-02 19:57:24 Client socket created
+2024-12-02 19:57:24 [Uncritical] Auth error
+2024-12-02 20:07:32 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:07:32 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:07:32 Port set default value
+2024-12-02 20:07:32 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:07:32 Connect to database success!
+2024-12-02 20:07:32 Server started
+2024-12-02 20:07:32 Listen socket created
+2024-12-02 20:07:32 Bind success
+2024-12-02 20:08:08 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:08:08 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:08:08 Port set default value
+2024-12-02 20:08:08 Ошибка: в строке отсутствует логин или пароль: user:
+2024-12-02 20:08:08 Ошибка: файл базы данных пустой: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:08:25 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:08:25 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:08:25 Port set default value
+2024-12-02 20:08:25 Ошибка: в строке отсутствует логин или пароль: user:
+2024-12-02 20:08:25 Ошибка: файл базы данных пустой: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:08:51 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:08:51 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:08:51 Port set default value
+2024-12-02 20:08:51 Ошибка: в строке отсутствует логин или пароль: user:
+2024-12-02 20:08:51 Ошибка: файл базы данных пустой: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:09:37 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:09:37 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:09:37 Port set default value
+2024-12-02 20:09:37 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:09:37 Connect to database success!
+2024-12-02 20:09:37 Server started
+2024-12-02 20:09:37 Listen socket created
+2024-12-02 20:09:37 Bind success
+2024-12-02 20:12:43 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:12:43 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:12:43 Port set default value
+2024-12-02 20:12:43 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:12:43 Connect to database success!
+2024-12-02 20:12:43 Server started
+2024-12-02 20:12:43 Listen socket created
+2024-12-02 20:12:43 Bind success
+2024-12-02 20:12:53 Client socket created
+2024-12-02 20:12:53 Received number of vectors: 4
+2024-12-02 20:12:53 Received length of vector 1: 4
+2024-12-02 20:12:53 Result of calculation for vector 1 sent
+2024-12-02 20:12:53 Received length of vector 2: 4
+2024-12-02 20:12:53 Result of calculation for vector 2 sent
+2024-12-02 20:12:53 Received length of vector 3: 4
+2024-12-02 20:12:53 Result of calculation for vector 3 sent
+2024-12-02 20:12:53 Received length of vector 4: 4
+2024-12-02 20:12:53 Result of calculation for vector 4 sent
+2024-12-02 20:13:25 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:13:25 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:13:25 Port set default value
+2024-12-02 20:13:25 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:13:25 Connect to database success!
+2024-12-02 20:13:25 Server started
+2024-12-02 20:13:25 Listen socket created
+2024-12-02 20:13:25 Bind success
+2024-12-02 20:13:34 Client socket created
+2024-12-02 20:13:34 Received number of vectors: 4
+2024-12-02 20:13:34 Received length of vector 1: 4
+2024-12-02 20:13:34 Result of calculation for vector 1 sent
+2024-12-02 20:13:34 Received length of vector 2: 4
+2024-12-02 20:13:34 Result of calculation for vector 2 sent
+2024-12-02 20:13:34 Received length of vector 3: 4
+2024-12-02 20:13:34 Result of calculation for vector 3 sent
+2024-12-02 20:13:34 Received length of vector 4: 4
+2024-12-02 20:13:34 Result of calculation for vector 4 sent
+2024-12-02 20:14:11 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:14:11 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:14:11 Port set default value
+2024-12-02 20:14:11 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:14:11 Connect to database success!
+2024-12-02 20:14:11 Server started
+2024-12-02 20:14:11 Listen socket created
+2024-12-02 20:14:11 Bind success
+2024-12-02 20:14:24 Client socket created
+2024-12-02 20:14:24 Received number of vectors: 4
+2024-12-02 20:14:24 Received length of vector 1: 4
+2024-12-02 20:14:24 Result of calculation for vector 1 sent
+2024-12-02 20:14:24 Received length of vector 2: 4
+2024-12-02 20:14:24 Result of calculation for vector 2 sent
+2024-12-02 20:14:24 Received length of vector 3: 4
+2024-12-02 20:14:24 Result of calculation for vector 3 sent
+2024-12-02 20:14:24 Received length of vector 4: 4
+2024-12-02 20:14:24 Result of calculation for vector 4 sent
+2024-12-02 20:14:53 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:14:53 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:14:53 Port set default value
+2024-12-02 20:14:53 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:14:53 Connect to database success!
+2024-12-02 20:14:53 Server started
+2024-12-02 20:14:53 Listen socket created
+2024-12-02 20:14:53 Bind success
+2024-12-02 20:15:02 Client socket created
+2024-12-02 20:15:02 [Uncritical] Unknown ID
+2024-12-02 20:16:54 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:16:54 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:16:54 Port set default value
+2024-12-02 20:16:54 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:16:54 Connect to database success!
+2024-12-02 20:16:54 Server started
+2024-12-02 20:16:54 Listen socket created
+2024-12-02 20:16:54 Bind success
+2024-12-02 20:17:01 Client socket created
+2024-12-02 20:17:01 [Uncritical] Auth error
+2024-12-02 20:36:58 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:36:58 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:36:58 Port set default value
+2024-12-02 20:36:58 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:36:58 Connect to database success!
+2024-12-02 20:36:58 Server started
+2024-12-02 20:36:58 Listen socket created
+2024-12-02 20:36:58 Bind success
+2024-12-02 20:37:11 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:37:11 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:37:11 Port set default value
+2024-12-02 20:37:11 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:37:11 Connect to database success!
+2024-12-02 20:37:11 Server started
+2024-12-02 20:37:11 Listen socket created
+2024-12-02 20:37:11 Bind success
+2024-12-02 20:37:38 Client socket created
+2024-12-02 20:37:38 Ошибка аутентификации: неправильный пароль для логина user
+2024-12-02 20:37:38 [Uncritical] Auth error
+2024-12-02 20:38:23 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:23 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:23 Port set default value
+2024-12-02 20:38:23 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:23 Connect to database success!
+2024-12-02 20:38:23 Server started
+2024-12-02 20:38:23 Listen socket created
+2024-12-02 20:38:23 Socket bind error
+2024-12-02 20:38:26 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:26 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:26 Port set default value
+2024-12-02 20:38:26 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:26 Connect to database success!
+2024-12-02 20:38:26 Server started
+2024-12-02 20:38:26 Listen socket created
+2024-12-02 20:38:26 Socket bind error
+2024-12-02 20:38:30 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:30 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:30 Port set default value
+2024-12-02 20:38:30 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:30 Connect to database success!
+2024-12-02 20:38:30 Server started
+2024-12-02 20:38:30 Listen socket created
+2024-12-02 20:38:30 Socket bind error
+2024-12-02 20:38:31 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:31 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:31 Port set default value
+2024-12-02 20:38:31 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:31 Connect to database success!
+2024-12-02 20:38:31 Server started
+2024-12-02 20:38:31 Listen socket created
+2024-12-02 20:38:31 Socket bind error
+2024-12-02 20:38:31 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:31 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:31 Port set default value
+2024-12-02 20:38:31 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:31 Connect to database success!
+2024-12-02 20:38:31 Server started
+2024-12-02 20:38:31 Listen socket created
+2024-12-02 20:38:31 Socket bind error
+2024-12-02 20:38:32 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:32 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:32 Port set default value
+2024-12-02 20:38:32 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:32 Connect to database success!
+2024-12-02 20:38:32 Server started
+2024-12-02 20:38:32 Listen socket created
+2024-12-02 20:38:32 Socket bind error
+2024-12-02 20:38:32 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:32 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:32 Port set default value
+2024-12-02 20:38:32 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:32 Connect to database success!
+2024-12-02 20:38:32 Server started
+2024-12-02 20:38:32 Listen socket created
+2024-12-02 20:38:32 Socket bind error
+2024-12-02 20:38:32 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:32 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:32 Port set default value
+2024-12-02 20:38:32 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:32 Connect to database success!
+2024-12-02 20:38:32 Server started
+2024-12-02 20:38:32 Listen socket created
+2024-12-02 20:38:32 Socket bind error
+2024-12-02 20:38:33 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:33 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:33 Port set default value
+2024-12-02 20:38:33 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:33 Connect to database success!
+2024-12-02 20:38:33 Server started
+2024-12-02 20:38:33 Listen socket created
+2024-12-02 20:38:33 Socket bind error
+2024-12-02 20:38:33 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:33 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:33 Port set default value
+2024-12-02 20:38:33 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:33 Connect to database success!
+2024-12-02 20:38:33 Server started
+2024-12-02 20:38:33 Listen socket created
+2024-12-02 20:38:33 Socket bind error
+2024-12-02 20:38:33 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:33 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:33 Port set default value
+2024-12-02 20:38:33 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:33 Connect to database success!
+2024-12-02 20:38:33 Server started
+2024-12-02 20:38:33 Listen socket created
+2024-12-02 20:38:33 Socket bind error
+2024-12-02 20:38:34 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:34 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:34 Port set default value
+2024-12-02 20:38:34 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:34 Connect to database success!
+2024-12-02 20:38:34 Server started
+2024-12-02 20:38:34 Listen socket created
+2024-12-02 20:38:34 Socket bind error
+2024-12-02 20:38:34 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:34 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:34 Port set default value
+2024-12-02 20:38:34 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:34 Connect to database success!
+2024-12-02 20:38:34 Server started
+2024-12-02 20:38:34 Listen socket created
+2024-12-02 20:38:34 Socket bind error
+2024-12-02 20:38:34 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:34 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:34 Port set default value
+2024-12-02 20:38:34 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:34 Connect to database success!
+2024-12-02 20:38:34 Server started
+2024-12-02 20:38:34 Listen socket created
+2024-12-02 20:38:34 Socket bind error
+2024-12-02 20:38:34 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:34 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:34 Port set default value
+2024-12-02 20:38:34 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:34 Connect to database success!
+2024-12-02 20:38:34 Server started
+2024-12-02 20:38:34 Listen socket created
+2024-12-02 20:38:34 Socket bind error
+2024-12-02 20:38:34 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:34 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:34 Port set default value
+2024-12-02 20:38:34 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:34 Connect to database success!
+2024-12-02 20:38:34 Server started
+2024-12-02 20:38:34 Listen socket created
+2024-12-02 20:38:34 Socket bind error
+2024-12-02 20:38:45 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:38:45 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:45 Port set default value
+2024-12-02 20:38:45 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:38:45 Connect to database success!
+2024-12-02 20:38:45 Server started
+2024-12-02 20:38:45 Listen socket created
+2024-12-02 20:38:45 Bind success
+2024-12-02 20:38:53 Client socket created
+2024-12-02 20:38:53 Ошибка аутентификации: неизвестный логин user
+2024-12-02 20:38:53 [Uncritical] Unknown ID
+2024-12-02 20:39:40 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:39:40 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:39:40 Port set default value
+2024-12-02 20:39:40 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:39:40 Connect to database success!
+2024-12-02 20:39:40 Server started
+2024-12-02 20:39:40 Listen socket created
+2024-12-02 20:39:40 Socket bind error
+2024-12-02 20:39:45 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:39:45 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:39:45 Port set default value
+2024-12-02 20:39:45 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:39:45 Connect to database success!
+2024-12-02 20:39:45 Server started
+2024-12-02 20:39:45 Listen socket created
+2024-12-02 20:39:45 Socket bind error
+2024-12-02 20:39:48 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:39:48 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:39:48 Port set default value
+2024-12-02 20:39:48 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:39:48 Connect to database success!
+2024-12-02 20:39:48 Server started
+2024-12-02 20:39:48 Listen socket created
+2024-12-02 20:39:48 Socket bind error
+2024-12-02 20:39:51 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:39:51 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:39:51 Port set default value
+2024-12-02 20:39:51 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:39:51 Connect to database success!
+2024-12-02 20:39:51 Server started
+2024-12-02 20:39:51 Listen socket created
+2024-12-02 20:39:51 Socket bind error
+2024-12-02 20:39:52 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:39:52 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:39:52 Port set default value
+2024-12-02 20:39:52 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:39:52 Connect to database success!
+2024-12-02 20:39:52 Server started
+2024-12-02 20:39:52 Listen socket created
+2024-12-02 20:39:52 Socket bind error
+2024-12-02 20:39:53 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:39:53 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:39:53 Port set default value
+2024-12-02 20:39:53 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:39:53 Connect to database success!
+2024-12-02 20:39:53 Server started
+2024-12-02 20:39:53 Listen socket created
+2024-12-02 20:39:53 Socket bind error
+2024-12-02 20:40:03 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 20:40:03 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:40:03 Port set default value
+2024-12-02 20:40:03 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 20:40:03 Connect to database success!
+2024-12-02 20:40:03 Server started
+2024-12-02 20:40:03 Listen socket created
+2024-12-02 20:40:03 Bind success
+2024-12-02 20:40:16 Client socket created
+2024-12-02 20:40:16 Received number of vectors: 4
+2024-12-02 20:40:16 Received length of vector 1: 4
+2024-12-02 20:40:16 Result of calculation for vector 1 sent
+2024-12-02 20:40:16 Received length of vector 2: 4
+2024-12-02 20:40:16 Result of calculation for vector 2 sent
+2024-12-02 20:40:16 Received length of vector 3: 4
+2024-12-02 20:40:16 Result of calculation for vector 3 sent
+2024-12-02 20:40:16 Received length of vector 4: 4
+2024-12-02 20:40:17 Result of calculation for vector 4 sent
+2024-12-02 21:11:06 Client socket created
+2024-12-02 21:11:06 Received number of vectors: 4
+2024-12-02 21:11:06 Received length of vector 1: 4
+2024-12-02 21:11:06 Result of calculation for vector 1 sent
+2024-12-02 21:11:06 Received length of vector 2: 4
+2024-12-02 21:11:06 Result of calculation for vector 2 sent
+2024-12-02 21:11:06 Received length of vector 3: 4
+2024-12-02 21:11:07 Result of calculation for vector 3 sent
+2024-12-02 21:11:07 Received length of vector 4: 4
+2024-12-02 21:11:07 Result of calculation for vector 4 sent
+2024-12-02 21:11:55 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 21:11:55 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 21:11:55 Port set default value
+2024-12-02 21:11:55 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 21:11:55 Connect to database success!
+2024-12-02 21:11:55 Server started
+2024-12-02 21:11:55 Listen socket created
+2024-12-02 21:11:55 Bind success
+2024-12-02 21:13:51 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 21:13:51 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 21:13:51 Port set default value
+2024-12-02 21:13:51 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 21:13:51 Connect to database success!
+2024-12-02 21:13:51 Server started
+2024-12-02 21:13:51 Listen socket created
+2024-12-02 21:13:51 Bind success
+2024-12-02 21:14:13 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 21:14:13 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 21:14:13 Port set default value
+2024-12-02 21:14:13 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 21:14:13 Connect to database success!
+2024-12-02 21:14:13 Server started
+2024-12-02 21:14:13 Listen socket created
+2024-12-02 21:14:13 Bind success
+2024-12-02 21:31:40 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-02 21:31:40 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-02 21:31:40 Port set default value
+2024-12-02 21:31:40 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-02 21:31:40 Connect to database success!
+2024-12-02 21:31:40 Server started
+2024-12-02 21:31:40 Listen socket created
+2024-12-02 21:31:40 Bind success
+2024-12-03 18:44:37 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-03 18:44:37 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-03 18:44:37 Port set default value
+2024-12-03 18:44:37 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-03 18:44:37 Connect to database success!
+2024-12-03 18:44:37 Server started
+2024-12-03 18:44:37 Listen socket created
+2024-12-03 18:44:37 Bind success
+2024-12-03 18:52:42 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-03 18:52:42 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-03 18:52:42 Port set default value
+2024-12-03 18:52:42 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-03 18:52:42 Connect to database success!
+2024-12-03 18:52:42 Server started
+2024-12-03 18:52:42 Listen socket created
+2024-12-03 18:52:42 Bind success
+2024-12-09 19:12:02 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-09 19:12:02 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-09 19:12:02 Port set default value
+2024-12-09 19:12:02 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-09 19:12:02 Connect to database success!
+2024-12-09 19:12:02 Server started
+2024-12-09 19:12:02 Listen socket created
+2024-12-09 19:12:02 Bind success
+2024-12-09 19:17:44 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-09 19:17:44 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-09 19:17:44 Port set default value
+2024-12-09 19:17:44 Ошибка: в строке отсутствует логин или пароль: user:
+2024-12-09 19:17:44 Ошибка: файл базы данных пустой: /home/stud/Server/test_files/auth.txt
+2024-12-09 19:28:59 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-09 19:28:59 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-09 19:28:59 Port set default value
+2024-12-09 19:28:59 Ошибка: в строке отсутствует логин или пароль: user:
+2024-12-09 19:28:59 Ошибка: файл базы данных пустой: /home/stud/Server/test_files/auth.txt
+2024-12-09 20:33:20 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-09 20:33:20 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-09 20:33:20 Port set default value
+2024-12-09 20:33:20 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-09 20:33:20 Connect to database success!
+2024-12-09 20:33:20 Server started
+2024-12-09 20:33:20 Listen socket created
+2024-12-09 20:33:20 Bind success
+2024-12-09 20:33:55 Client socket created
+2024-12-09 20:33:55 Ошибка аутентификации: неправильный пароль для логина user
+2024-12-09 20:33:55 [Uncritical] Auth error
+2024-12-09 20:36:56 Path to logfile set value: /home/stud/Server/test_files/log.txt
+2024-12-09 20:36:56 Path to basefile set value: /home/stud/Server/test_files/auth.txt
+2024-12-09 20:36:56 Port set not default value
+2024-12-09 20:36:56 Успешное подключение к базе данных: /home/stud/Server/test_files/auth.txt
+2024-12-09 20:36:56 Connect to database success!
+2024-12-09 20:36:56 Server started
+2024-12-09 20:36:56 Listen socket created
+2024-12-09 20:36:56 Bind success

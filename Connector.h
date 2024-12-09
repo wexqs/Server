@@ -13,6 +13,8 @@
 /** @brief Управляет подключениями к базе данных.
  * @details Загружает данные пользователей из файла и хранит их в словаре.
  */
+class Logger;
+
 class Connector {
 private:
     std::map<std::string, std::string> data_base; /**< Словарь для хранения данных базы */
@@ -23,7 +25,7 @@ public:
      * @param base_file Путь к файлу базы данных.
      * @return int Код состояния.
      */
-    int connect(std::string base_file = "/home/stud/Server/test_files/auth.txt");
+    int connect(std::string base_file = "/etc/vcalc.conf", Logger* logger = nullptr);
 
     /**
      * @brief Получает данные из базы данных.

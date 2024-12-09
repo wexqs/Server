@@ -86,7 +86,9 @@ int Communicate::connection(int port, std::map<std::string, std::string> databas
                 buff[rc] = 0;
                 std::string ID(buff.get(), rc);
 
+                // Проверка на существование ID
                 if (database.find(ID) == database.end()) {
+                    l1->writelog("Ошибка аутентификации: неизвестный логин " + ID);
                     close(work_sock);
                     throw no_crit_err("[Uncritical] Unknown ID");
                 }
@@ -106,8 +108,10 @@ int Communicate::connection(int port, std::map<std::string, std::string> databas
                 buff[rc] = 0;
                 std::string client_hash(buff.get(), rc);
 
+                // Проверка пароля
                 std::string expected_hash = sha256(salt_s + database[ID]);
                 if (client_hash != expected_hash) {
+                    l1->writelog("Ошибка аутентификации: неправильный пароль для логина " + ID);
                     close(work_sock);
                     throw no_crit_err("[Uncritical] Auth error");
                 }
